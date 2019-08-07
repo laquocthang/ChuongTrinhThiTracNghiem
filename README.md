@@ -4,6 +4,10 @@ Sử dụng tham chiếu từ Microsoft.Office.Interop.Excel
 
 ## Cài đặt
 
+![Login Form](Capture-1.jpg?raw=true "Login Form")
+
+![Main Form](Capture-2.jpg?raw=true "Main Form")
+
 ## Hướng dẫn sử dụng
 
 ## Yêu cầu
