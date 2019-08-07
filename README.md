@@ -4,9 +4,9 @@ Sử dụng tham chiếu từ Microsoft.Office.Interop.Excel
 
 ## Cài đặt
 
-![Login Form](Capture-1.png?raw=true "Login Form")
+![Login Form](Capture-1.PNG?raw=true "Login Form")
 
-![Main Form](Capture-2.png?raw=true "Main Form")
+![Main Form](Capture-2.PNG?raw=true "Main Form")
 
 ## Hướng dẫn sử dụng
 
